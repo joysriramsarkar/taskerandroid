@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"tasker-app-123","appId":"1:28672862943:android:0ac0081e125adc48b6576a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"tasker-app-123","configurations":{"android":"1:28672862943:android:0ac0081e125adc48b6576a","web":"1:28672862943:web:7d651574924b4fd0b6576a"}}}}}}
